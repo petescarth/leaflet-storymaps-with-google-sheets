@@ -11,7 +11,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 - Google Sheets template https://docs.google.com/spreadsheets/d/1OhPhdyERIbVdmj5zvJt9mOvFVnkKc64ckRnvmCx2xvI/
 
 ## Create Your Own
-- See step-by-step tutorial in *Hands-On Data Visualization* https://petescarth/leaflet-storymaps-with-google-sheets.html
+- See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
 
 ## Credits
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College, CT.
